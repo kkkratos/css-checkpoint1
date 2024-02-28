@@ -134,11 +134,24 @@ section > h2 {
     font-size: 30px;
     font-weight: bold;
 }
-.container{
-   margin-left: 42%;
-   display: grid;
-}
-#img2{
+.containere{
+    margin-top: 20px;
     display: flex;
-    flex-direction: row;
+    justify-content: flex-end;
+
+}
+.copyright{
+    margin-right: 30px;
+    margin-top: 15px;
+}
+#img4{
+    border-radius: 20px;
+}
+#img5{
+    margin-left: 20px;
+    border-radius: 40px;
+}
+#img6{
+    margin-left: 20px;
+    border-radius: 40px;
 }
